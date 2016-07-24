@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Introduction](README.md)
 * [Selecting XY microphone pattern](selecting-xy-microphone-pattern.md)
 * [Performing a factory reset](performing-factory-reset.md)
 * [Formatting the SD card](formatting-sd-card.md)
