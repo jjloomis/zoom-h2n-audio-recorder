@@ -1,4 +1,4 @@
-# Turning on the Zoom H2n
+# Powering on the Zoom H2n
 
 * Press and hold the `Hold` button downward. 
 
