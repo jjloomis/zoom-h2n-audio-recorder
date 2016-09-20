@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Selecting XY microphone pattern](selecting-xy-microphone-pattern.md)
 * [Turning on the Zoom H2n](turning-on-the-zoom-h2n.md)
+* [Selecting XY microphone pattern](selecting-xy-microphone-pattern.md)
 * [Performing a factory reset](performing-factory-reset.md)
 * [Formatting the SD card](formatting-sd-card.md)
 * [Applying Automatic Gain Control](applying-automatic-gain-control.md)
