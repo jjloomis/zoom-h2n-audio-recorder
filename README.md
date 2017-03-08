@@ -1,4 +1,4 @@
-# Zoom H2 Audio Recorder
+# Zoom H2n Audio Recorder
 
 ## About
 
