@@ -9,5 +9,6 @@
 * [Recording audio \(in person\)](recording-audio.md)
 * [Recording audio \(phone call\)](recording-audio-phone-call.md)
 * [Powering off the Zoom H2n](turning-off-zoom-h2n.md)
-* [Copying WAV files into your project folder](copying-wav-files-into-project-folder.md)
+* [Copying WAV files into your project folder \(JAMS Lab or CCL Mac\)](copying-wav-files-into-project-folder.md)
+* [Copying WAV files into your project folder \(personal Mac\)](copying-wav-files-into-your-project-folder-personal-mac.md)
 
