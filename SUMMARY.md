@@ -11,4 +11,5 @@
 * [Powering off the Zoom H2n](turning-off-zoom-h2n.md)
 * [Copying WAV files into your project folder \(JAMS Lab or CCL Mac\)](copying-wav-files-into-project-folder.md)
 * [Copying WAV files into your project folder \(personal Mac\)](copying-wav-files-into-your-project-folder-personal-mac.md)
+* [Copying WAV files into your project folder \(personal PC\)](copying-wav-files-into-your-project-folder-personal-pc.md)
 
