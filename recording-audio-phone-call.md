@@ -2,7 +2,7 @@
 
 With your phone set to **Speaker**, you can use a Zoom to record the audio of a phone call. This method uses clever mic positioning to ensure your portion of the call and that of the caller's is recorded at an optimum audio level.
 
-1. See image below. This is how the Zoom should be positioned relative to your phone on flat surface. \(**Note**: The phone's earpiece is about 2 inches away from Zoom's **Record** button.\) 
+1. See image below. This is how the Zoom should be positioned relative to your phone on a flat surface. \(**Note**: The phone's earpiece is about 2 inches away from Zoom's **Record** button.\) 
 2. Plug earbuds into** **the** Line Out** jack on the Zoom.
 3. Plug earbuds into your ears.
 4. Press the **Record** button once. The **red record light** will turn on. You are recording.
@@ -11,6 +11,4 @@ With your phone set to **Speaker**, you can use a Zoom to record the audio of a 
 7. When you're finished recording, press the **Record** button again. The **red record light** will shut off.
 
 ![](/assets/zoom-h2n-recording-phone-call.jpg)
-
-
 
